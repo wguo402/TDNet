@@ -1,5 +1,11 @@
 # TDNet: Triplet Diffusion Network for 3D Point Clouds Object Tracking
 
+## Demo
+
+![TDNet](https://github.com/wguo402/TDNet/blob/main/demo.gif)
+
+The above is our fragment display, and the more complete object tracking process is shown in [demo](https://www.bilibili.com/video/BV1Ct421V7Mz/?spm_id_from=333.999.0.0&vd_source=94575dffc53c970af321acb0619d64b4).
+
 ## Introduction
 
 To address some challenges such as position changes caused by occlusions, semantic information deficiency due to the sparsity of the point cloudin 3D point cloud tracking, we put forward a novel tracking method by a Triplet Diffusion Network(TDNet), which is primarily composed of diffusion enhancement, template updating, and multi-scale feature matching. 
