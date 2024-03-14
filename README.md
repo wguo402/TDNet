@@ -4,7 +4,11 @@
 
 ![TDNet](https://github.com/wguo402/TDNet/blob/main/demo.gif)
 
-The above is our fragment display, and the more complete object tracking process is shown in [demo](https://www.bilibili.com/video/BV1Ct421V7Mz/?spm_id_from=333.999.0.0&vd_source=94575dffc53c970af321acb0619d64b4).
+
+The above is our fragment display. Due to the upload capacity limit of Github, the complete video can be viewed [here](https://www.bilibili.com/video/BV1Ct421V7Mz/?spm_id_from=333.999.0.0&vd_source=94575dffc53c970af321acb0619d64b4).
+
+
+<!-- The above is our fragment display, and the more complete object tracking process is shown in [demo](https://www.bilibili.com/video/BV1Ct421V7Mz/?spm_id_from=333.999.0.0&vd_source=94575dffc53c970af321acb0619d64b4). -->
 
 ## Introduction
 
